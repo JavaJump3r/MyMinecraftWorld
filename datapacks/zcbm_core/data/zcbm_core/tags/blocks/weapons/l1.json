@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+	"#zcbm_core:combination/glass_blocks",
+	"#zcbm_core:combination/natura",
+	"#zcbm_core:combination/not_filled",
+	"#minecraft:signs",
+    "#minecraft:wooden_buttons",
+    "#minecraft:wooden_doors",
+	"#minecraft:wooden_pressure_plates",
+	"#minecraft:wooden_trapdoors",
+	"minecraft:ladder",
+	"#zcbm_core:base_id/fence",
+	"#minecraft:wool",
+	"#minecraft:carpets"
+  ]
+}

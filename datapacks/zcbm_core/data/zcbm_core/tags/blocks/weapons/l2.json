@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"#zcbm_core:weapons/l1",
+	"#zcbm_core:combination/interactive_blocks",
+	"#zcbm_core:combination/ui_blocks",
+	"#zcbm_core:combination/wooden_blocks",
+	"#zcbm_core:base_id/loose"
+  ]
+}

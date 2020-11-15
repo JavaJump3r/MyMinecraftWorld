@@ -1,0 +1,1309 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-05-21 15:35:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2020-05-21 15:17:00 +0200",
+      "has_iron_chestplate": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/lantern": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-05-21 15:17:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:37:16 +0200",
+      "has_obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-05-21 15:53:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2020-05-21 15:23:19 +0200"
+    },
+    "done": false
+  },
+  "kcordoba:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:16 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:16 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:16 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-05-21 15:22:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:40 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-05-21 15:35:54 +0200",
+      "has_the_recipe": "2020-05-21 15:35:54 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-05-21 15:17:00 +0200",
+      "iron_leggings": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200",
+      "has_the_recipe": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/chest": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:17:40 +0200",
+      "has_lots_of_items": "2020-05-21 15:17:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-05-21 15:23:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-05-21 15:22:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/bucket": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:16 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2020-05-21 15:22:17 +0200",
+      "minecraft:creeper": "2020-05-21 15:54:08 +0200",
+      "minecraft:zombie": "2020-05-21 15:54:09 +0200"
+    },
+    "done": false
+  },
+  "kcordoba:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:23:16 +0200",
+      "has_carrot": "2020-05-21 15:23:16 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:16 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2020-05-21 15:17:00 +0200",
+      "has_iron_chestplate": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/barrel": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:16 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-05-21 15:53:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:16 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-05-21 15:16:38 +0200",
+      "has_the_recipe": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-05-21 15:09:27 +0200",
+      "minecraft:taiga": "2020-05-21 15:06:49 +0200",
+      "minecraft:taiga_hills": "2020-05-21 15:22:11 +0200",
+      "minecraft:river": "2020-05-21 15:09:12 +0200",
+      "minecraft:wooded_mountains": "2020-05-21 15:32:32 +0200"
+    },
+    "done": false
+  },
+  "kcordoba:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-05-21 15:17:00 +0200",
+      "iron_leggings": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-05-21 15:53:52 +0200",
+      "has_the_recipe": "2020-05-21 15:53:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200",
+      "has_the_recipe": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/minecart": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-05-21 15:42:44 +0200",
+      "has_the_recipe": "2020-05-21 15:42:44 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-05-21 15:17:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-05-21 15:16:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2020-05-21 15:22:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:37:16 +0200",
+      "has_obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2020-05-21 15:17:00 +0200",
+      "has_the_recipe": "2020-05-21 15:17:00 +0200",
+      "has_iron_chestplate": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2020-05-21 15:22:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-05-21 15:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/crossbow": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-05-21 15:09:27 +0200",
+      "minecraft:taiga": "2020-05-21 15:06:49 +0200",
+      "minecraft:taiga_hills": "2020-05-21 15:22:11 +0200",
+      "minecraft:river": "2020-05-21 15:09:12 +0200",
+      "minecraft:wooded_mountains": "2020-05-21 15:32:32 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:16 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-05-21 15:42:44 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:story/root": {
+    "criteria": {
+      "crafting_table": "2020-05-21 15:16:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200",
+      "has_the_recipe": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-05-21 15:23:35 +0200",
+      "has_the_recipe": "2020-05-21 15:23:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-05-21 15:23:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2020-05-21 15:23:19 +0200"
+    },
+    "done": false
+  },
+  "kcordoba:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2020-05-21 15:17:00 +0200",
+      "has_the_recipe": "2020-05-21 15:17:00 +0200",
+      "has_iron_chestplate": "2020-05-21 15:17:00 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-05-21 15:53:52 +0200",
+      "has_the_recipe": "2020-05-21 15:53:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2020-05-21 15:22:17 +0200",
+      "minecraft:creeper": "2020-05-21 15:54:08 +0200",
+      "minecraft:zombie": "2020-05-21 15:54:09 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-05-21 15:35:41 +0200",
+      "has_the_recipe": "2020-05-21 15:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-21 15:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:38 +0200",
+      "has_planks": "2020-05-21 15:16:38 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-05-21 15:17:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-05-21 15:15:59 +0200",
+      "has_the_recipe": "2020-05-21 15:15:59 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_the_recipe": "2020-05-21 15:16:17 +0200",
+      "has_iron_ingot": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-05-21 15:16:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-05-21 15:23:33 +0200",
+      "has_the_recipe": "2020-05-21 15:23:33 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-05-21 15:16:43 +0200",
+      "has_the_recipe": "2020-05-21 15:16:43 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-05-21 15:23:19 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

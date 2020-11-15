@@ -1,0 +1,15 @@
+{
+"values":[
+	"#minecraft:rails",
+	"minecraft:cave_air",
+	"minecraft:vine",
+	"minecraft:grass",
+	"#zcbm_core:combination/natura",
+	"minecraft:water",
+	"minecraft:lava",
+	"minecraft:oak_fence",
+	"minecraft:oak_planks",
+	"minecraft:chest",
+	"minecraft:cobweb"
+	]
+}

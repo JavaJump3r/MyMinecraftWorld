@@ -1,0 +1,24 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "f",
+        "/",
+        "p"
+    ],
+    "key": {
+        "f": {
+            "item": "minecraft:flint"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "p": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "minecraft:arrow",
+        "count": 10
+    },
+    "group": "arrow"
+}

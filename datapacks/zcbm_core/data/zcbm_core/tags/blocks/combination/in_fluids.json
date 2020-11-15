@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#zcbm_core:base_id/water_plants",
+	"#zcbm_core:base_id/fluids",
+	"#zcbm_core:base_id/coral_blocks",
+	"#zcbm_core:base_id/coral_not_filled"
+  ]
+}

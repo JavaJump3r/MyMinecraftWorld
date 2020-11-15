@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:villager",
+	"minecraft:pig",
+	"minecraft:sheep",
+	"minecraft:cow",
+	"minecraft:horse",
+	"minecraft:polar_bear",
+	"minecraft:llama",
+	"minecraft:mule",
+	"minecraft:donkey",
+	"minecraft:mooshroom",
+	"panda",
+	"wolf",
+	
+	"cat",
+	"chicken",
+	"ocelot",
+	"rabbit",
+	"turtle"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+"values":[
+	"minecraft:gravel",
+	"minecraft:dirt",
+	"minecraft:grass_block",
+	"minecraft:mycelium",
+	"#zcbm_core:base_id/stone"
+	]
+}

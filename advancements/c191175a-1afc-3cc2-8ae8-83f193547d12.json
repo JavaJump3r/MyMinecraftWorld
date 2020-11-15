@@ -1,0 +1,135 @@
+{
+  "kcordoba:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-05-20 18:35:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-05-20 18:29:40 +0200",
+      "minecraft:taiga": "2020-05-20 18:28:17 +0200",
+      "minecraft:taiga_hills": "2020-05-20 18:32:32 +0200",
+      "minecraft:river": "2020-05-20 18:29:30 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-05-20 18:38:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2020-05-20 18:38:00 +0200"
+    },
+    "done": false
+  },
+  "kcordoba:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-05-20 18:38:00 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2020-05-20 18:38:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-05-20 18:35:52 +0200"
+    },
+    "done": true
+  },
+  "kcordoba:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200",
+      "has_the_recipe": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 18:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-05-20 18:29:40 +0200",
+      "minecraft:taiga": "2020-05-20 18:28:17 +0200",
+      "minecraft:taiga_hills": "2020-05-20 18:32:32 +0200",
+      "minecraft:river": "2020-05-20 18:29:30 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

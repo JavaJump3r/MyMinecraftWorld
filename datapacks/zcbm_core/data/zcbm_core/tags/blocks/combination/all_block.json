@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+	"#zcbm_core:combination/glass_blocks",
+	"#zcbm_core:base_id/fluids",
+	"#zcbm_core:combination/interactive_blocks",
+	"#zcbm_core:base_id/loose",
+	"#zcbm_core:combination/natura",
+	"#zcbm_core:combination/not_filled",
+	"#zcbm_core:combination/stone_blocks",
+	"#zcbm_core:combination/ui_blocks",
+	"#zcbm_core:combination/wooden_blocks",
+	"minecraft:spawner"
+  ]
+}

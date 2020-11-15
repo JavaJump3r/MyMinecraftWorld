@@ -1,0 +1,121 @@
+BlazeandCave's Advancements Pack
+Version 1.9.4
+
+By BlazeandCave
+
+Thank you for downloading this advancements pack by BlazeandCave.
+If you liked or have any ideas for other advancements that could be added to this pack (or found any issues) feel free to comment.
+
+Please use Minecraft 1.15, 1.15.1, or 1.15.2 for this version. The pack may or may not continue to work properly in future versions.
+
+--- Installing: ---
+1) Unzip the compressed folder that you downloaded.
+
+2) Copy the folder labeled "bac_advancements". Paste it into the following folder directory in the world you want to install them in: <World name>/datapacks. 
+
+3) Go into the world. A message should pop up saying you are using BlazeandCave's advancements pack. If not, check your advancements menu. You should see the custom tab named "BlazeandCave's Advancements"
+
+
+--- Using the advancement scoreboard: ---
+Completing each advancement triggers a function that adds one to a scoreboard, so it counts how many advancements each player on a world has obtained.
+You can get the scoreboard to show up on the sidebar using the following command:
+/scoreboard objectives setdisplay sidebar bac_advancements
+
+Or on the player list that shows up when you press tab:
+/scoreboard objectives setdisplay list bac_advancements
+
+Please note that due to the way advancements and functions work, if a non-opped player gets an advancement they may not actually trigger any function rewards, so the scoreboard may not count for non-opped players on a server. However, you can fix this using the following command, which runs a special function that updates the scores for every player currently online.
+/function bc_rewards:update_score
+
+
+--- Turning on reward functions: ---
+Reward functions give you item or experience rewards upon completing some advancements. By default they are turned off. To turn them on enter the following command:
+/scoreboard players set reward bac_settings 1
+To turn them off enter this command:
+/scoreboard players set reward bac_settings 0
+
+
+--- Other settings: ---
+You can set the advancements scoreboard to automatically update using this command:
+/scoreboard players set adv_score bac_settings X
+Where X is how often in seconds you want it to be updated. This setting is recommended for servers where the scoreboard won't update for non-opped players, and it is recommended that X is set to a high number for servers that are laggy or have a lot of people (e.g. 300 for 5 minutes).
+X is set to 0 by default, which will cause it to only update from the functions (recommended for singleplayer or servers where everyone is opped)
+
+You can also set the milestone advancements to automatically update in the same manner as the advancements scoreboard using the command:
+/scoreboard players set checking bac_settings X
+Again, X is set to 0 by default, which will cause it to only update from the functions (again, recommended for singleplayer or servers where everyone is opped)
+
+
+--- Updating to newer versions: ---
+The Advancements Pack will undoubtedly be updated to be fixed for later versions or to add more advancements or fix bugs. In order to update, simply delete the datapack from your world, then copy and paste the new datapack folder in. Please note that when you re-enter your world some or all of the advancements you have already obtained you may need to obtain again due to changes in advancement structure.
+
+
+--- Using the Language Resource Pack: ---
+BlazeandCave's Advancements Pack has support for translation into other languages through use of the BACAP Language Resource Pack, which can be downloaded from the link on the Planet Minecraft page. 
+- The Language Pack is a resource pack that, instead of changing textures, adds more to language files to be used by the advancements pack.
+- It is installed just like any other resource pack.
+- When using it, you may choose any language that the Advancement Pack supports and it will change the names and descriptions of all of the advancements into that language.
+
+The following languages are supported, and we hope to add more in the future:
+- Pirate Speak (PIRATE)
+- LOLCAT (Kingdom of Cats)
+- Espanol
+- Russian
+- Japanese
+- Chinese (Simplified)
+- French
+If you want to help translate, you can get the base language file that comes with the language resource pack, translate it, then send it back to us. More details on how to do that are on the Planet Minecaft page.
+If you are running a server, please note in the description that it supports translation using the BACAP Language Pack, and provide a link to the Planet Minecraft page.
+
+
+
+--- What you may do with these advancements: ---
+You may freely use them to play your worlds. This includes singleplayer worlds, LAN worlds with friends, or even public multiplayer servers. If you use our advancements on a public server please credit us in the server's description and leave a link to the Planet Minecraft page.
+
+Do not re-upload our advancements and claim them as your own.
+
+You may record a Youtube series where you use these advancements in your survival world. If you do, please credit us in the video or in the description, and leave a link to the Planet Minecraft page. And message us, too. We'd love to see you play with them.
+
+And remember to pronounce our names right! Cavinator1 is cave-in-eight-or and MichaelMKenny is michael-em-kenny.
+
+
+--- Troubleshooting: ---
+We are aware of a number of issues involving installing advancements, particularly if you try to install them on servers. We are no experts on servers, but here are a few questions we've been asked and how they were solved:
+
+- The scoreboard is not working:
+Type in these commands in order:
+/scoreboard players objectives add bac_advancements dummy
+/function bc_rewards:update_score
+/scoreboard objectives setdisplay sidebar bac_advancements
+
+- Rewards are not given:
+Remember they are not enabled by default! Type in these commands to turn them on:
+/scoreboard players objectives add bac_settings dummy
+/scoreboard players set reward bac_settings 1
+If you are on a server and are positive you installed the rewards correctly, this would likely be occurring due to permissions or due to server plugins (e.g. Spigot will almost always screw with this datapack) because, sadly due to the way advancements and functions work, if a non-opped player gets an advancement they may not actually trigger any function rewards.
+
+- The custom advancements are plain not showing up:
+If the above didn't work, any number of things could be happening to cause this to happen. Try restarting the server or using the /reload command.
+If you're using a spigot server, the vanilla command /reload won't work, instead type in the server's console minecraft:reload (without the backslash).
+Remember when placing the advancements into your world's folder, you have to paste the "bac_advancements" folder into the following folder directory: <World name>/datapacks.
+Do NOT copy them into plain <world name>/advancements - that's the folder that contains player files (i.e. a list of each player and what advancements they have gotten), not the advancements themselves.
+
+
+
+If your question is not answered here or our advice doesn't work for you, you could try messaging us your problem, and we may be able to help you. Or try searching on Google for advice on how to fix these problems.
+
+
+--- How you may contribute to our pack: ---
+Have any ideas for advancements you'd like to see in the pack? We're open to suggestions, so if you have any ideas, be sure to comment or send us a private message and we'll see if we can add it. Do note that not all suggestions may be possible to add due to limitations in advancement coding.
+If you want to help us translate, you can use the base language file that comes with the BACAP Language Pack, translate it, then send it back to us. More details on how to do that are on the Planet Minecaft page.
+
+
+
+--- List of advancements: ---
+We challenge you to get all 731 advancements. :) Or at least as many as you can.
+
+View the list of advancements here:
+https://docs.google.com/spreadsheets/d/1LzS2gC4pbEnT1-F038mgxYwKAJvkzvbJVYvoJJMyZb4/edit?usp=sharing
+
+
+

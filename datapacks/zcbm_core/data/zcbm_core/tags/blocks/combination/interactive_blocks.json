@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:cauldron",
+	"minecraft:jukebox",
+	"minecraft:bell",
+	"minecraft:note_block",
+	"minecraft:tnt"
+  ]
+}

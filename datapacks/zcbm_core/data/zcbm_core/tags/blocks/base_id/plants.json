@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:grass",
+	"minecraft:fern",
+	"minecraft:dead_bush",
+	"minecraft:brown_mushroom",
+	"minecraft:red_mushroom",
+	"minecraft:chorus_plant",
+	"minecraft:vine",
+	"minecraft:lily_pad",
+	"minecraft:bamboo_sapling",
+	"minecraft:bamboo",
+	"minecraft:sugar_cane",
+	"minecraft:sweet_berry_bush",
+	"minecraft:cocoa",
+	"minecraft:wheat",
+	"minecraft:pumpkin_stem",
+	"minecraft:melon_stem",
+	"minecraft:potatoes",
+	"minecraft:carrots",
+	"minecraft:beetroots",
+	"#zcbm_core:base_id/coral_not_filled",
+	"minecraft:nether_wart"
+  ]
+}

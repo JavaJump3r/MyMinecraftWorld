@@ -1,0 +1,9 @@
+{
+"values":[
+	"zcbm_core:listener/loop",
+	"zcbm_core:stats",
+	"zcbm_core:crafting/loop",
+	"zcbm_core:tools/loop",
+	"zcbm_core:world/loop"
+	]
+}
