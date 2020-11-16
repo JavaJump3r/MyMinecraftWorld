@@ -1,2 +1,0 @@
-execute if data entity @s {ArmorItems:[{tag:{zcbm:{Page:"core",PageN:1}}}]} run function zcbm_core:crafting/craft/gui_page2
-execute if data entity @s {ArmorItems:[{tag:{zcbm:{Page:"core",PageN:2}}}]} run function zcbm_core:crafting/craft/gui_page2_2

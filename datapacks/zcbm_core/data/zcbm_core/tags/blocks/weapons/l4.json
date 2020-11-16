@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-	"#zcbm_core:weapons/l3",
-	
-	"minecraft:iron_block",
-	"minecraft:obsidian"
-  ]
-}

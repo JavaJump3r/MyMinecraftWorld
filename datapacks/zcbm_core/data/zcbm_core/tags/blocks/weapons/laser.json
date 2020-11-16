@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-	"#zcbm_core:base_id/glass",
-	"#zcbm_core:combination/not_filled_absolute",
-	"#zcbm_core:combination/not_filled"
-  ]
-}
